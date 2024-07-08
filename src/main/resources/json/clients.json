@@ -1,0 +1,44 @@
+[
+  {
+    "firstName" : "Arley Andre",
+    "lastName" : " Herrera Cordova",
+    "email" : "aherrerac10@upao.edu.pe",
+    "password": 12345678,
+    "address": "Calle Los Pinos 1000"
+  },
+  {
+    "firstName" : "Anthony Alynzon",
+    "lastName" : "Lezcano Saavedra",
+    "email" : "alezcanos1@upao.edu.pe",
+    "password": 12345678,
+    "address": "Calle Los Pinos 1030"
+  },
+  {
+    "firstName" : "Carlos Antonio",
+    "lastName" : "Luján Salvador",
+    "email" : "clujans2@upao.edu.pe",
+    "password": 12345678,
+    "address": "Calle Los Pinos 1020"
+  },
+  {
+    "firstName" : "Enmanuel Joseph",
+    "lastName" : "Rodriguez Alvarado",
+    "email" : "erodrgueza1@upao.edu.pe",
+    "password": 12345678,
+    "address": "Calle Los Pinos 1020"
+  },
+  {
+    "firstName" : "Paolo Alessandro",
+    "lastName" : "Rodriguez Herrera",
+    "email" : "prodriguezh4@upao.edu.pe",
+    "password": 12345678,
+    "address": "Calle Los Pinos 1020"
+  },
+  {
+    "firstName" : "Cesar Fernando",
+    "lastName" : "Valdiviezo Rodriguez",
+    "email" : "cvaldiviezor4@upao.edu.pe",
+    "password": 12345678,
+    "address": "Calle Los Pinos 1020"
+  }
+]

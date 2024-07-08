@@ -1,0 +1,20 @@
+[
+  {
+    "name" : "Servicios Públicos",
+    "description" : "Formato para facturación de Servicios Públicos",
+    "enabled" : true,
+    "code": 0
+  },
+  {
+    "name" : "Empresas Comerciales",
+    "description" : "Formato para facturación de Empresas Comerciales",
+    "enabled" : true,
+    "code": 1
+  },
+  {
+    "name" : "Entidades Financieras",
+    "description" : "Formato para facturación de Entidades Financieras",
+    "enabled" : true,
+    "code": 2
+  }
+]

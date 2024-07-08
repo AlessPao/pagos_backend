@@ -1,0 +1,56 @@
+[
+  {
+    "name" : "Hidrandina",
+    "ruc" : "20132023540",
+    "address" : "Av. España 1020",
+    "code": 0
+  },
+  {
+    "name" : "SAT",
+    "ruc" : "20337101276",
+    "address" : "Jr. Camana Nro. 370 (Cercado de Lima)",
+    "code": 0
+  },
+  {
+    "name" : "Sedalib S.A.",
+    "ruc" : "20131911310",
+    "address" : "Av. Federico Villarreal Nro. 1300",
+    "code": 0
+  },
+  {
+    "name" : "Walmart",
+    "ruc" : "20519279747",
+    "address" : "El Porvenir 13006",
+    "code": 1
+  },
+  {
+    "name" : "Coolbox",
+    "ruc" : "20378890161",
+    "address" : "Av. Salaverry Nro. 3310 (a Dos Cdras. Av. Ejercito)",
+    "code": 1
+  },
+  {
+    "name" : "Dollarcity",
+    "ruc" : "20606109343",
+    "address" : "Av. Santo Toribio Nro. 0143 Int. 301",
+    "code": 1
+  },
+  {
+    "name" : "Banco de Crédito del Perú",
+    "ruc" : "20100047218",
+    "address" : "Mercado Zonal Palermo, Av. César Vallejo 202",
+    "code": 2
+  },
+  {
+    "name" : "Banco Continental",
+    "ruc" : "20100130204",
+    "address" : "Av. España 154",
+    "code": 2
+  },
+  {
+    "name" : "Banco de la Nación",
+    "ruc" : "20100030595",
+    "address" : "Calle Orbegoso 100",
+    "code": 2
+  }
+]
